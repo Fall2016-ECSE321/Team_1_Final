@@ -6,4 +6,4 @@ Please find below a link to the repositories for the different platform implemen
 
 * [Mobile Application](https://github.com/Fall2016-ECSE321/FoodTruckManagement_Mobile)
 
-* [Php Application](https://github.com/Fall2016-ECSE321/FoodTruckManagement_Web)
+* [Web Application](https://github.com/Fall2016-ECSE321/FoodTruckManagement_Web)
